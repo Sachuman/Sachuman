@@ -6,3 +6,6 @@
 - 📫 How to reach me: sasajain@ucsc.edu
 - Languages I am fluent with :  Python, JavaScript, C++. Learning Go.
 
+
+- Things I like to do/ I would want to do :  Sing, play piano, Travel, Hit Gym.
+
