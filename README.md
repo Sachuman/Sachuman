@@ -7,5 +7,5 @@
 - Languages I am fluent with :  Python, JavaScript, C++. Learning Go.
 
 
-- Things I like to do/ I would want to do :  Sing, play piano, Travel, Hit Gym.
+- Things I like to do/ I would want to do outside computers:  Sing, play piano, Travel, Hit Gym.
 
