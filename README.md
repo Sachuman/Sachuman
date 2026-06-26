@@ -4,5 +4,5 @@
 -  Interests :  Operating systems, distributed systems, compilers, GPUs, FPGAs, hardware/software co-design.
 
 -  reach me out - sach.jain.2005@gmail.com
--  Things I like otherwise:  Sing, play piano, Travel, Hit Gym, Finance
+-  Things I like otherwise:  Sing, Travel, Hit Gym, Finance
 
